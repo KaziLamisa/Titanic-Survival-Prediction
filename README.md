@@ -1,7 +1,7 @@
 # Titanic Survival Prediction Competition
 Data Set: https://www.kaggle.com/c/titanic
 
-### Setup:
+### Requirement:
 - Python version 3.8.3
 - Pyspark version 3.0.1
 
@@ -20,7 +20,6 @@ Used pyspark for loading, cleaning and running machine learning algorithm.
 8. Used Logistic Regression Model for prediction.
 9. Tune Hyper Parameters using cross validation.
       
-_Current Score on Kaggle: .7751_
 
 ### To-Do:
 - Search for more appropriate values to fillup the missing cells.
